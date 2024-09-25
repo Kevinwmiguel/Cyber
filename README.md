@@ -1,3 +1,2 @@
-# MemoryGame_React
-
+# MemoryGame_Angular
 #1
