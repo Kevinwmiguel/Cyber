@@ -17,5 +17,7 @@
 # Resutados
 
     PAGE: image GET LINKEDIN
-![image](https://github.com/user-attachments/assets/7dc81f2c-5fd8-4198-8f85-b6963664168a)
+![image](https://github.com/user-attachments/assets/1def7a2e-4082-4c6f-94ea-deb94faef0e0)
     RESULT: Linkedin Test
+![image](https://github.com/user-attachments/assets/7dc81f2c-5fd8-4198-8f85-b6963664168a)
+   
